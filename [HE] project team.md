@@ -15,12 +15,9 @@ healthedu@freemed.or.kr
 * 보건교육사업PM
 <br/>
 보건교육사업 시 협력하는 지역아동센터와 프리메드간의 다리 역할을 합니다. 센터와 의논하여 보건교육 커리큘럼을 작성하고, 해당 센터에서 생기는 모든 일들과 단원들을 총괄하는 역할을 합니다. <br/><br/>
-**[21대 보건교육사업PM 김시원]**
-**heproject@freemed.or.kr**<br/>
-**[21대 보건교육사업PM 정구현]**
-**hepm@freemed.or.kr**<br/>
-**[21대 보건교육사업PM 김예림]**
-**heoperation@freemed.or.kr**
+[21대 보건교육사업PM 김시원] heproject@freemed.or.kr<br/>
+[21대 보건교육사업PM 정구현] hepm@freemed.or.kr<br/>
+[21대 보건교육사업PM 김예림] heoperation@freemed.or.kr
 <br/><br/>
 
 
